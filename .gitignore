@@ -1,0 +1,6 @@
+server/.env
+server/node_modules 
+chainlit-backend/.env
+chainlit-backend/__pycache__
+chainlit-backend/.chainlit
+chainlit-backend/chainlit.md 
