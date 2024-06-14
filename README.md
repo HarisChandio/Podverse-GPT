@@ -30,7 +30,7 @@ Podverse-GPT/
 │
 └── .gitignore
 
-
+```
 ## Signup Page
 ![Screenshot (47)](https://github.com/HarisChandio/Podverse-GPT/assets/86180280/f9d4d860-6a7b-4651-ab7e-f81f8e926ee1)
 
